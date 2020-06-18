@@ -1,5 +1,5 @@
 title = "Muzeji za obiskovalce"
-baseURL = "https://example.com"
+baseURL = "https://muzeji.github.us"
 languageCode = "en-us"
 theme = "ananke"
 ###themesDir = "../.."
@@ -9,7 +9,7 @@ DefaultContentLanguage = "sl"
 SectionPagesMenu = "main"
 Paginate = 20 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 summaryLength = 30
 
 
