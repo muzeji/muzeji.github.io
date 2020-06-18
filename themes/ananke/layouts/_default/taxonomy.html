@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <article class="cf pa3 pa4-m pa4-l">
+    {{/* <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
+      <p>Below you will find pages that utilize the taxonomy term “{{ .Title }}”</p>
+    </div> */}}
+  </article>
+
+
+
+  <div class="pa3 pa4-ns nested-copy-line-height nested-img">
+      <div class="flex-ns flex-wrap justify-around w-70 w-30 center"><h2>{{ i18n "isci" }}</h2></div>
+      <div class="flex-ns flex-wrap justify-around w-70 w-30 center">
+          <ul class="pa0 nested-links">
+      {{ range $key, $value := .Site.Taxonomies.tags }}
+       <li class="list dib">
+         <a href="{{ "/tags/" | relLangURL }}{{ $key | urlize }}" class="link f5 grow no-underline  mb2 dib ph2  black sans-serif">
+           {{ $key | humanize }}</a> </li>
+      {{ end }}
+    </ul>
+   </div>
+
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range  .Pages }}
+        <div class="relative w-100 w-30-l  mb4 bg-white">
+          {{ partial "summary.html" . }}
+        </div>
+      {{ end }}
+    </section>
+
+  </div>
+{{ end }}

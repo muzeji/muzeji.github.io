@@ -1,0 +1,11 @@
+figcaption {
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+figure {
+margin-block-start: 2em;
+margin-block-end: 2em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}

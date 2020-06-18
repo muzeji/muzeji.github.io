@@ -1,0 +1,66 @@
+title = "Muzeji za obiskovalce"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "ananke"
+###themesDir = "../.."
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "sl"
+SectionPagesMenu = "main"
+Paginate = 20 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+summaryLength = 30
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[[menu.main]]
+  name = "O avtorju"
+  identifier = "avtor"
+  url = "/avtor/"
+
+
+[[menu.main.en]]
+  name = "About"
+  identifier = "avtor"
+  url = "/author/"
+
+
+
+[languages]
+
+  [languages.sl]
+    title = "Muzeji za obiskovalce"
+    weight = 1
+    [languages.sl.params]
+
+  [languages.en]
+    title = "Museums for visitors"
+    weight = 2
+
+    [languages.en.params]
+
+      [languages.en.params.navigation]
+        omeni = "About me"
+
+
+
+
+[params]
+  description = "The last theme you'll ever need. Maybe."
+  commentoEnable = true
+  custom_css = ["css/custom.css"]
+
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+
+  background_color_class = "bg-gray"
+  recent_posts_number = 100
+
+  [params.navigation]
+    omeni = "O meni"

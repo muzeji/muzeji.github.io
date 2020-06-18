@@ -1,0 +1,35 @@
+[more]
+other = "Več"
+
+[allTitle]
+other = "Vsi {{.Title }}"
+
+[recentTitle]
+other = "Nedavni {{.Title }}"
+
+[readMore]
+other = "Preberi več"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Podobno"
+
+[yourName]
+other = "Tvoje ime"
+
+[emailAddress]
+other = "Naslov elektronske pošte"
+
+[message]
+other = "Sporočilo"
+
+[emailRequiredNote]
+other = "Naslov elektronske pošte je obvezen."
+
+[send]
+other = "Pošlji"
+
+[isci]
+other = "Išči članke po ključnih besedah"
