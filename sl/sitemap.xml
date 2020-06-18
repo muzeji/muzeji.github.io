@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/starejsi-dostopnost/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/accessibility-elders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/starejsi-dostopnost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/raziskave/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/clanki/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/clanki/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/dostopnost/</loc>
+    <lastmod>2019-11-27T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/participacija/</loc>
+    <lastmod>2019-11-27T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/krakov/</loc>
+    <lastmod>2019-11-27T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/participacija/</loc>
+    <lastmod>2019-11-27T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/avtor/</loc>
+    <lastmod>2019-11-18T17:04:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/avtor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/obiskovalci/</loc>
+    <lastmod>2019-04-08T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://example.com/categories/"
+                />
+  </url>
+  
+</urlset>

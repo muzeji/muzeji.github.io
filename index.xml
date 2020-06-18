@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Članki o muzejih on Muzeji za obiskovalce</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Članki o muzejih on Muzeji za obiskovalce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kako dostopni so muzeji v Sloveniji za starejše obiskovalke/ce</title>
+      <link>https://example.com/starejsi-dostopnost/</link>
+      <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://example.com/starejsi-dostopnost/</guid>
+      <description>Slovenske dediščinske organizacije in ustanove so po letu 2015 pričele s pobudo prepoznavanja dostopnosti in s tem povezanih potreb starejših. V okviru programa Sekcije za izobraževanje in komunikacijo pri Skupnosti muzejev Slovenije (SMS) so leta 2017 zastavale raziskavo o dostopnosti za starejše obiskovalke in obiskovalce.</description>
+    </item>
+    
+    <item>
+      <title>Etika sodelovanja / participacije v muzejih</title>
+      <link>https://example.com/participacija/</link>
+      <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://example.com/participacija/</guid>
+      <description>Vstopamo v sodelovalno ali participativno družbo, o tem nas prepričujejo pozivi in zahteve demokratičnih sil v slovenski družbi. Pravica državljanov, da »v skladu z zakonom neposredno ali po izvoljenih predstavnikih sodelujejo pri upravljanju javnih zadev je zagotovljena s 44.</description>
+    </item>
+    
+    <item>
+      <title>Muzej Krakova posveča 120. jubilej prebivalcem mesta</title>
+      <link>https://example.com/krakov/</link>
+      <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://example.com/krakov/</guid>
+      <description>Muzej Krakova je častitljiva ustanova kulturne dediščine. Kako je eden najstarejših in tradicionalnih muzejev na Poljskem danes postal državljanjski forum, družbeno odgovorna ustanova, ki se osredotoča na urbano okolje in usmerja v delovanje za javnost, si lahko preberete v nadaljevanju.</description>
+    </item>
+    
+    <item>
+      <title>O avtorju</title>
+      <link>https://example.com/avtor/</link>
+      <pubDate>Mon, 18 Nov 2019 17:04:39 +0100</pubDate>
+      
+      <guid>https://example.com/avtor/</guid>
+      <description>Kako sem v Kamniškem muzeju, moji prvi službi, poskušal oživiti likovno življenje v kraju in kako sem kot kustos za pohištvo v Mestnem muzeju Ljubljana sodeloval pri popisu državnih zbirk kulturne dediščine?</description>
+    </item>
+    
+    <item>
+      <title>Muzejsko doživetje pred, med in po obisku muzeja</title>
+      <link>https://example.com/obiskovalci/</link>
+      <pubDate>Mon, 08 Apr 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://example.com/obiskovalci/</guid>
+      <description>Zakaj ljudje prihajajo v muzeje, kaj tam počnejo in kaj odnesejo s seboj? Odgovore na ta vprašanja posredujeta John H. Falk in Lynn D. Dierking, raziskovalca z Oregon State University v ZDA, ki sta na osnovi pogovorov z več tisoč obiskovalci v ZDA in drugod po svetu, zasnovala kontekstni model učenja in ga poimenovala &amp;ldquo;The Museum Experience&amp;rdquo; ali &amp;ldquo;muzejsko doživetje&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
