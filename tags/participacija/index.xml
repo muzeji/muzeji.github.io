@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Participacija on Muzeji za obiskovalce</title>
-    <link>https://example.com/tags/participacija/</link>
+    <link>https://muzeji.github.us/tags/participacija/</link>
     <description>Recent content in Participacija on Muzeji za obiskovalce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 00:10:47 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/participacija/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muzeji.github.us/tags/participacija/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etika sodelovanja / participacije v muzejih</title>
-      <link>https://example.com/participacija/</link>
+      <link>https://muzeji.github.us/participacija/</link>
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://example.com/participacija/</guid>
+      <guid>https://muzeji.github.us/participacija/</guid>
       <description>Vstopamo v sodelovalno ali participativno družbo, o tem nas prepričujejo pozivi in zahteve demokratičnih sil v slovenski družbi. Pravica državljanov, da »v skladu z zakonom neposredno ali po izvoljenih predstavnikih sodelujejo pri upravljanju javnih zadev je zagotovljena s 44.</description>
     </item>
     

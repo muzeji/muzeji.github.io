@@ -3,145 +3,145 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/starejsi-dostopnost/</loc>
+    <loc>https://muzeji.github.us/starejsi-dostopnost/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/accessibility-elders/"
+                href="https://muzeji.github.us/en/accessibility-elders/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/starejsi-dostopnost/"
+                href="https://muzeji.github.us/starejsi-dostopnost/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/raziskave/</loc>
+    <loc>https://muzeji.github.us/tags/raziskave/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://example.com/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/clanki/</loc>
+    <loc>https://muzeji.github.us/tags/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/articles/"
+                href="https://muzeji.github.us/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/clanki/"
+                href="https://muzeji.github.us/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://muzeji.github.us/clanki/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://muzeji.github.us/en/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/"
+                href="https://muzeji.github.us/clanki/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/dostopnost/</loc>
+    <loc>https://muzeji.github.us/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.us/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.us/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://muzeji.github.us/tags/dostopnost/</loc>
     <lastmod>2019-11-27T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/participacija/</loc>
+    <loc>https://muzeji.github.us/participacija/</loc>
     <lastmod>2019-11-27T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/krakov/</loc>
+    <loc>https://muzeji.github.us/krakov/</loc>
     <lastmod>2019-11-27T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/participacija/</loc>
+    <loc>https://muzeji.github.us/tags/participacija/</loc>
     <lastmod>2019-11-27T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/avtor/</loc>
+    <loc>https://muzeji.github.us/avtor/</loc>
     <lastmod>2019-11-18T17:04:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/"
+                href="https://muzeji.github.us/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/avtor/"
+                href="https://muzeji.github.us/avtor/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/obiskovalci/</loc>
+    <loc>https://muzeji.github.us/obiskovalci/</loc>
     <lastmod>2019-04-08T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://muzeji.github.us/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://muzeji.github.us/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/categories/"
+                href="https://muzeji.github.us/categories/"
                 />
   </url>
   

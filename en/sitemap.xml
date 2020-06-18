@@ -3,110 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/en/accessibility-elders/</loc>
+    <loc>https://muzeji.github.us/en/accessibility-elders/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/starejsi-dostopnost/"
+                href="https://muzeji.github.us/starejsi-dostopnost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/accessibility-elders/"
+                href="https://muzeji.github.us/en/accessibility-elders/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/articles/</loc>
+    <loc>https://muzeji.github.us/en/articles/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/clanki/"
+                href="https://muzeji.github.us/clanki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/articles/"
+                href="https://muzeji.github.us/en/articles/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://muzeji.github.us/en/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/"
+                href="https://muzeji.github.us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://muzeji.github.us/en/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/tags/research/</loc>
+    <loc>https://muzeji.github.us/en/tags/research/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://muzeji.github.us/en/tags/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/tags/"
+                href="https://muzeji.github.us/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://muzeji.github.us/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/author/</loc>
+    <loc>https://muzeji.github.us/en/author/</loc>
     <lastmod>2019-11-18T17:04:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/avtor/"
+                href="https://muzeji.github.us/avtor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/"
+                href="https://muzeji.github.us/en/author/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://muzeji.github.us/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://example.com/categories/"
+                href="https://muzeji.github.us/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://muzeji.github.us/en/categories/"
                 />
   </url>
   

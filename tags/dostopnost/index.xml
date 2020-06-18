@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dostopnost on Muzeji za obiskovalce</title>
-    <link>https://example.com/tags/dostopnost/</link>
+    <link>https://muzeji.github.us/tags/dostopnost/</link>
     <description>Recent content in Dostopnost on Muzeji za obiskovalce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 00:10:47 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/dostopnost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muzeji.github.us/tags/dostopnost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Muzej Krakova posveča 120. jubilej prebivalcem mesta</title>
-      <link>https://example.com/krakov/</link>
+      <link>https://muzeji.github.us/krakov/</link>
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://example.com/krakov/</guid>
+      <guid>https://muzeji.github.us/krakov/</guid>
       <description>Muzej Krakova je častitljiva ustanova kulturne dediščine. Kako je eden najstarejših in tradicionalnih muzejev na Poljskem danes postal državljanjski forum, družbeno odgovorna ustanova, ki se osredotoča na urbano okolje in usmerja v delovanje za javnost, si lahko preberete v nadaljevanju.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Museums for visitors</title>
-    <link>https://example.com/en/articles/</link>
+    <link>https://muzeji.github.us/en/articles/</link>
     <description>Recent content in Articles on Museums for visitors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/en/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muzeji.github.us/en/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are Slovenian Museums And Galleries Accessible To The Visitors Of The Third Age?</title>
-      <link>https://example.com/en/accessibility-elders/</link>
+      <link>https://muzeji.github.us/en/accessibility-elders/</link>
       <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://example.com/en/accessibility-elders/</guid>
+      <guid>https://muzeji.github.us/en/accessibility-elders/</guid>
       <description>The research was organised by members of the Education and Communication Group - a part of Slovenian Museum Association and it was carried on between January and October 2018 in 29 museums that means 1/3 of the whole museum and gallery community.</description>
     </item>
     
