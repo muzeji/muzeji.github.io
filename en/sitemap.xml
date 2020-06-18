@@ -3,110 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://muzeji.github.us/en/accessibility-elders/</loc>
+    <loc>https://muzeji.github.io/en/accessibility-elders/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/starejsi-dostopnost/"
+                href="https://muzeji.github.io/starejsi-dostopnost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/accessibility-elders/"
+                href="https://muzeji.github.io/en/accessibility-elders/"
                 />
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/articles/</loc>
+    <loc>https://muzeji.github.io/en/articles/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/clanki/"
+                href="https://muzeji.github.io/clanki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/articles/"
+                href="https://muzeji.github.io/en/articles/"
                 />
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/</loc>
+    <loc>https://muzeji.github.io/en/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/"
+                href="https://muzeji.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/"
+                href="https://muzeji.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/tags/research/</loc>
+    <loc>https://muzeji.github.io/en/tags/research/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/tags/</loc>
+    <loc>https://muzeji.github.io/en/tags/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/tags/"
+                href="https://muzeji.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/tags/"
+                href="https://muzeji.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/author/</loc>
+    <loc>https://muzeji.github.io/en/author/</loc>
     <lastmod>2019-11-18T17:04:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/avtor/"
+                href="https://muzeji.github.io/avtor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/author/"
+                href="https://muzeji.github.io/en/author/"
                 />
   </url>
   
   <url>
-    <loc>https://muzeji.github.us/en/categories/</loc>
+    <loc>https://muzeji.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.us/categories/"
+                href="https://muzeji.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.us/en/categories/"
+                href="https://muzeji.github.io/en/categories/"
                 />
   </url>
   

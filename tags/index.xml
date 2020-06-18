@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Muzeji za obiskovalce</title>
-    <link>https://muzeji.github.us/tags/</link>
+    <link>https://muzeji.github.io/tags/</link>
     <description>Recent content in Tags on Muzeji za obiskovalce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
     
-	<atom:link href="https://muzeji.github.us/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muzeji.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Raziskave</title>
-      <link>https://muzeji.github.us/tags/raziskave/</link>
+      <link>https://muzeji.github.io/tags/raziskave/</link>
       <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://muzeji.github.us/tags/raziskave/</guid>
+      <guid>https://muzeji.github.io/tags/raziskave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dostopnost</title>
-      <link>https://muzeji.github.us/tags/dostopnost/</link>
+      <link>https://muzeji.github.io/tags/dostopnost/</link>
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://muzeji.github.us/tags/dostopnost/</guid>
+      <guid>https://muzeji.github.io/tags/dostopnost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participacija</title>
-      <link>https://muzeji.github.us/tags/participacija/</link>
+      <link>https://muzeji.github.io/tags/participacija/</link>
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://muzeji.github.us/tags/participacija/</guid>
+      <guid>https://muzeji.github.io/tags/participacija/</guid>
       <description></description>
     </item>
     
