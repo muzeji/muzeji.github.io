@@ -13,17 +13,17 @@
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
 
-    <div class="pa3 pa4-ns nested-copy-line-height nested-img">
-        <div class="flex-ns flex-wrap justify-around w-70 w-30 center"><h2>{{ i18n "isci" }}</h2></div>
-        <div class="flex-ns flex-wrap justify-around w-70 w-30 center">
-          <ul class="pa0 nested-links">
-      {{ range $key, $value := .Site.Taxonomies.tags }}
-       <li class="list dib">
-         <a href="{{ "/tags/" | relLangURL }}{{ $key | urlize }}" class="link f5 grow no-underline  mb2 dib ph2  black sans-serif">
-           {{ $key | humanize }}</a> </li>
-      {{ end }}
-    </ul>
-        </div>
+    {{/* <div class="pa3 pa4-ns nested-copy-line-height nested-img"> */}}
+        {{/* <div class="flex-ns flex-wrap justify-around w-70 w-30 center"><h2>{{ i18n "isci" }}</h2></div> */}}
+       {{/*  <div class="flex-ns flex-wrap justify-around w-70 w-30 center"> */}}
+         {{/*  <ul class="pa0 nested-links"> */}}
+     {{/*  {{ range $key, $value := .Site.Taxonomies.tags }} */}}
+     {{/*   <li class="list dib"> */}}
+        {{/*  <a href="{{ "/tags/" | relLangURL }}{{ $key | urlize }}" class="link f5 grow no-underline  mb2 dib ph2  black sans-serif"> */}}
+          {{/* {{ $key | humanize }}</a> </li> */}}
+      {{/* {{ end }} */}}
+   {{/*  </ul> */}}
+       {{/*  </div> */}}
 
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
