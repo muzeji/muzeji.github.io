@@ -9,3 +9,9 @@ margin-block-end: 2em;
 margin-inline-start: 0px;
 margin-inline-end: 0px;
 }
+
+@media screen and (min-width: 60em)  {
+.f-subheadline-l {
+font-size: 4rem;
+}
+}

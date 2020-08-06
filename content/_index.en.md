@@ -1,4 +1,3 @@
 ---
-title: "Articles About Museums"
+description: "Values of socially responsible museums"
 ---
-
