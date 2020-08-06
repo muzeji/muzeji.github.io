@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dostopnost on Muzeji za obiskovalce</title>
+    <title>Dostopnost on Muzeji in javnost</title>
     <link>https://muzeji.github.io/tags/dostopnost/</link>
-    <description>Recent content in Dostopnost on Muzeji za obiskovalce</description>
+    <description>Recent content in Dostopnost on Muzeji in javnost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 00:10:47 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
     
 	<atom:link href="https://muzeji.github.io/tags/dostopnost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kako dostopni so muzeji v Sloveniji za starejše obiskovalke/ce</title>
+      <link>https://muzeji.github.io/starejsi-dostopnost/</link>
+      <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://muzeji.github.io/starejsi-dostopnost/</guid>
+      <description>Slovenske dediščinske organizacije in ustanove so po letu 2015 pričele s pobudo prepoznavanja dostopnosti in s tem povezanih potreb starejših. V okviru programa Sekcije za izobraževanje in komunikacijo pri Skupnosti muzejev Slovenije (SMS) so leta 2017 zastavile raziskavo o dostopnosti za starejše obiskovalke in obiskovalce.</description>
+    </item>
     
     <item>
       <title>Muzej Krakova posveča 120. jubilej prebivalcem mesta</title>

@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://muzeji.github.io/en/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.io/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://muzeji.github.io/en/accessibility-elders/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,23 +50,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://muzeji.github.io/en/articles/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://muzeji.github.io/en/</loc>
-    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://muzeji.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://muzeji.github.io/en/"
                 />
   </url>
   
@@ -107,6 +107,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://muzeji.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://muzeji.github.io/en/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.io/kontakt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.io/en/contact/"
                 />
   </url>
   

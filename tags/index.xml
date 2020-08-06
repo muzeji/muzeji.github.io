@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Muzeji za obiskovalce</title>
+    <title>Tags on Muzeji in javnost</title>
     <link>https://muzeji.github.io/tags/</link>
-    <description>Recent content in Tags on Muzeji za obiskovalce</description>
+    <description>Recent content in Tags on Muzeji in javnost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
@@ -12,18 +12,9 @@
     
     
     <item>
-      <title>Raziskave</title>
-      <link>https://muzeji.github.io/tags/raziskave/</link>
-      <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
-      
-      <guid>https://muzeji.github.io/tags/raziskave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dostopnost</title>
       <link>https://muzeji.github.io/tags/dostopnost/</link>
-      <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
+      <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
       
       <guid>https://muzeji.github.io/tags/dostopnost/</guid>
       <description></description>
@@ -35,6 +26,15 @@
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
       <guid>https://muzeji.github.io/tags/participacija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javnost in obiskovalci</title>
+      <link>https://muzeji.github.io/tags/javnost-in-obiskovalci/</link>
+      <pubDate>Mon, 08 Apr 2019 00:10:47 +0100</pubDate>
+      
+      <guid>https://muzeji.github.io/tags/javnost-in-obiskovalci/</guid>
       <description></description>
     </item>
     

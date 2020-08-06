@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles About Museums on Museums for visitors</title>
+    <title>Museums and the public</title>
     <link>https://muzeji.github.io/en/</link>
-    <description>Recent content in Articles About Museums on Museums for visitors</description>
+    <description>Recent content on Museums and the public</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
@@ -21,12 +21,22 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://muzeji.github.io/en/author/</link>
       <pubDate>Mon, 18 Nov 2019 17:04:39 +0100</pubDate>
       
       <guid>https://muzeji.github.io/en/author/</guid>
-      <description>Kako sem v Kamniškem muzeju, moji prvi službi, poskušal oživiti likovno življenje v kraju in kako sem kot kustos za pohištvo v Mestnem muzeju Ljubljana sodeloval pri popisu državnih zbirk kulturne dediščine?</description>
+      <description>1977 I graduated History of Art on the University in Ljubljana, Slovenia; 1995 finished Master of Art in museology on Zagreb University, Croatia, Department of Information Sciences.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://muzeji.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muzeji.github.io/en/contact/</guid>
+      <description>You can reach me here.
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>

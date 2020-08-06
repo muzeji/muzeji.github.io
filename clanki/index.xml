@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Članki on Muzeji za obiskovalce</title>
+    <title>Članki on Muzeji in javnost</title>
     <link>https://muzeji.github.io/clanki/</link>
-    <description>Recent content in Članki on Muzeji za obiskovalce</description>
+    <description>Recent content in Članki on Muzeji in javnost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 00:10:47 +0100</lastBuildDate>
@@ -17,16 +17,16 @@
       <pubDate>Tue, 10 Dec 2019 00:10:47 +0100</pubDate>
       
       <guid>https://muzeji.github.io/starejsi-dostopnost/</guid>
-      <description>Slovenske dediščinske organizacije in ustanove so po letu 2015 pričele s pobudo prepoznavanja dostopnosti in s tem povezanih potreb starejših. V okviru programa Sekcije za izobraževanje in komunikacijo pri Skupnosti muzejev Slovenije (SMS) so leta 2017 zastavale raziskavo o dostopnosti za starejše obiskovalke in obiskovalce.</description>
+      <description>Slovenske dediščinske organizacije in ustanove so po letu 2015 pričele s pobudo prepoznavanja dostopnosti in s tem povezanih potreb starejših. V okviru programa Sekcije za izobraževanje in komunikacijo pri Skupnosti muzejev Slovenije (SMS) so leta 2017 zastavile raziskavo o dostopnosti za starejše obiskovalke in obiskovalce.</description>
     </item>
     
     <item>
-      <title>Etika sodelovanja / participacije v muzejih</title>
+      <title>Etika sodelovanja oz. participacije v muzejih</title>
       <link>https://muzeji.github.io/participacija/</link>
       <pubDate>Wed, 27 Nov 2019 00:10:47 +0100</pubDate>
       
       <guid>https://muzeji.github.io/participacija/</guid>
-      <description>Vstopamo v sodelovalno ali participativno družbo, o tem nas prepričujejo pozivi in zahteve demokratičnih sil v slovenski družbi. Pravica državljanov, da »v skladu z zakonom neposredno ali po izvoljenih predstavnikih sodelujejo pri upravljanju javnih zadev je zagotovljena s 44.</description>
+      <description>Vstopamo v sodelovalno ali s tujko participativno družbo, na to nas opozarjajo pozivi in zahteve demokratičnih sil v družbi. Kako pa so lahko muzeji in galerije poligoni za uresničevanje aktivne so-udeležbe državljanov, si poglejte v nadaljevanju.</description>
     </item>
     
     <item>
@@ -40,10 +40,10 @@
     
     <item>
       <title>Muzejsko doživetje pred, med in po obisku muzeja</title>
-      <link>https://muzeji.github.io/obiskovalci/</link>
+      <link>https://muzeji.github.io/falk-dierking/</link>
       <pubDate>Mon, 08 Apr 2019 00:10:47 +0100</pubDate>
       
-      <guid>https://muzeji.github.io/obiskovalci/</guid>
+      <guid>https://muzeji.github.io/falk-dierking/</guid>
       <description>Zakaj ljudje prihajajo v muzeje, kaj tam počnejo in kaj odnesejo s seboj? Odgovore na ta vprašanja posredujeta John H. Falk in Lynn D. Dierking, raziskovalca z Oregon State University v ZDA, ki sta na osnovi pogovorov z več tisoč obiskovalci v ZDA in drugod po svetu, zasnovala kontekstni model učenja in ga poimenovala &amp;ldquo;The Museum Experience&amp;rdquo; ali &amp;ldquo;muzejsko doživetje&amp;rdquo;.</description>
     </item>
     
