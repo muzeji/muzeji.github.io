@@ -44,3 +44,6 @@ disqusShortname = "muzeji"
 
   background_color_class = "bg-dark-green"
   recent_posts_number = 100
+
+  # enable indexing by search engines
+  env = "production"
