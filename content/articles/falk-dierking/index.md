@@ -4,8 +4,8 @@ date: 2019-04-08T00:10:47+01:00
 url: falk-dierking
 tags:
 - Javnost in obiskovalci
-
-
+aliases:
+    - /obiskovalci/
 ---
  
  #### Zakaj ljudje prihajajo v muzeje, kaj tam počnejo in kaj odnesejo s seboj? Odgovore na ta vprašanja posredujeta John H. Falk in Lynn D. Dierking, raziskovalca z Oregon State University v ZDA, ki sta na osnovi pogovorov z več tisoč obiskovalci v ZDA in drugod po svetu, zasnovala kontekstni model učenja in ga poimenovala "The Museum Experience" ali "muzejsko doživetje". ####
