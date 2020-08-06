@@ -1,4 +1,4 @@
-title = "Muzeji za obiskovalce"
+title = "Muzeji in javnost"
 baseURL = "https://muzeji.github.io"
 languageCode = "en-us"
 theme = "ananke"
@@ -12,6 +12,9 @@ googleAnalytics = ""
 enableRobotsTXT = false
 summaryLength = 30
 
+disqusShortname = "muzeji"
+
+
 
 [sitemap]
   changefreq = "monthly"
@@ -19,48 +22,25 @@ summaryLength = 30
   filename = "sitemap.xml"
 
 
-[[menu.main]]
-  name = "O avtorju"
-  identifier = "avtor"
-  url = "/avtor/"
-
-
-[[menu.main.en]]
-  name = "About"
-  identifier = "avtor"
-  url = "/author/"
-
-
 
 [languages]
 
   [languages.sl]
-    title = "Muzeji za obiskovalce"
+    title = "Muzeji in javnost"
     weight = 1
-    [languages.sl.params]
 
   [languages.en]
-    title = "Museums for visitors"
+    title = "Museums and the public"
     weight = 2
 
-    [languages.en.params]
-
-      [languages.en.params.navigation]
-        omeni = "About me"
-
-
-
-
 [params]
-  description = "The last theme you'll ever need. Maybe."
-  commentoEnable = true
+  description = "O vrednotah družbeno odgovornih muzejev."
+  #commentoEnable = true
   custom_css = ["css/custom.css"]
 
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 
-  background_color_class = "bg-gray"
+  # featured_image = "/images/muzeji-bg.jpg"
+
+  background_color_class = "bg-dark-green"
   recent_posts_number = 100
-
-  [params.navigation]
-    omeni = "O meni"

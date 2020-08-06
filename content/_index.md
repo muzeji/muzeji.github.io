@@ -1,4 +1,4 @@
 ---
-title: "Članki o muzejih"
+description: "O vrednotah družbeno odgovornih muzejev"
 ---
 
