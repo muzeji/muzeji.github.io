@@ -11,4 +11,4 @@ url: contact
 
 You can reach me here.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/xwkwpaww"  >}}
