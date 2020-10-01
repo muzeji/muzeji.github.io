@@ -78,19 +78,19 @@
   </url>
   
   <url>
-    <loc>https://muzeji.github.io/en/author/</loc>
+    <loc>https://muzeji.github.io/en/editor/</loc>
     <lastmod>2019-11-18T17:04:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://muzeji.github.io/avtor/"
+                href="https://muzeji.github.io/urednik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://muzeji.github.io/en/author/"
+                href="https://muzeji.github.io/en/editor/"
                 />
   </url>
   
