@@ -11,4 +11,4 @@ url: kontakt
 
 Preko tega obrazca me lahko kontaktirate.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/xwkwpaww"  >}}
