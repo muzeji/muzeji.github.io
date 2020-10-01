@@ -2,8 +2,10 @@
 title: "O uredniku"
 date: 2019-11-18T17:04:39+01:00
 draft: false
-url: avtor
+url: urednik
 menu: main
+aliases:
+    - /avtor/
 
 ---
 
