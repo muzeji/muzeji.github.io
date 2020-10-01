@@ -14,7 +14,8 @@ summaryLength = 30
 
 disqusShortname = "muzeji"
 
-
+[markup.goldmark.renderer]
+unsafe= true
 
 [sitemap]
   changefreq = "monthly"
