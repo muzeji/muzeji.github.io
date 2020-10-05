@@ -96,3 +96,9 @@ Hic Rhodus hic salta, naj se prične!
 [^damjanovic]: Nika Damjanovič (vodja projekta) in mag. Borut Rovšnik (mentor), »Muzej v malem«: sodelovalni projekt Muzeja in galerij mesta Ljubljane in OŠ Ledina, Didakta, XXIV/171, 2014, str. 36-41.
 
 [^mensch101]: Peter van Mensch in Léontine Meijer - van Mensch, New Trends in Museology, Celje 2011, str.101.
+
+Ljubljana 2010
+
+Borut Rovšnik, muzejski svetnik
+Pedagoški programi in raziskave občinstva 
+MGML Mestni muzej Ljubljana

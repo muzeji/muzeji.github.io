@@ -37,13 +37,13 @@ Pod naslovom **Kazimierzanin** so v Stari sinagogi nekdanjega židovskega Kazim
 
 V četrti Podgorje v muzeju, ki je na pobudo lokalnih prebivalcev nastal in bil leta 2017 odprt ob pomoči evropskih sredstev, je bila na ogled razstava **Podgorjanec**. Gre za soočenje nekdanje podobe krakovskega delavca v tovarni na prelomu 19. in 20. stoletja s podobo sodobnega,  marsikdaj prekarnega delavca, zaposlenega v eni od številnih krakovskih globalnih korporacij. Ta primerjava nam osvetljuje skupine, ki ustvarjajo osnove ekonomskega obstoja mesta. 
 
-{{< imgresize Podgorze.jpg "1000x">}}Rekonstrukcija dela stanovanja  delavca iz 19. stoletja in sodobnega iz današnje info dobe.{{</imgresize>}}
+{{< imgresize "Podgorze.jpg" "1000x">}}Rekonstrukcija dela stanovanja  delavca iz 19. stoletja in sodobnega iz današnje info dobe.{{</imgresize>}}
 
 V naslednjem oddelku muzeja na razstavi **Meščan** se soočamo z analizo mita o krakovskem meščanstvu in polemiziranjem z obstoječimi stereotipi. Prisili nas, da se vprašamo o sodobnih stanovalcih Krakova. Ali se skriva med njimi samozadovoljni licemernež? Ali so meščani v klasičnem pomenu besede konservativna skupina, zagledana v zgodovino in hrepeneča po preteklosti?
 
 Na drugem koncu mesta je v petdesetih letih nastal socialistični »kombinat« Nova huta (Nova železarna) ob njem pa istoimensko naselje za več kot 10.000 delavcev. V nekdanjem kinu, spremenjenim v muzej, je postavljena razstava **Prebivalec Nove hute**, ki pripoveduje o današnjem stanovalcu te postindustrijske četrti Krakova. Poudarek je na predstavitvi težkih let politične transformacije.
 
-{{< imgresize Nova_huta.jpg "1000x">}}.{{</imgresize>}}
+{{< imgresize "Nova_huta.jpg" "1000x">}}.{{</imgresize>}}
 
 ## Mesto. Muzej. Prebivalci. ##
 Med prireditvami je treba omeniti še dve konferenci. Na prvi z naslovom Mesto. Muzej. Prebivalci. bodo poskusili strokovnjaki in raziskovalci  povzeti potek projekta PreMeščanje in ga dopolniti s svojimi prispevki, saj je to priložnost za predstavitev mnenj o raznolikih dinamičnih spremembah sodobnega Krakova, ki vplivajo na stanovalce, na meščane. Spraševali se bodo o povezavah mestnega muzeja s stanovalci mesta. Na kak način se odvija dialog? Kakšno podobo v zavesti prebivalcev ima MK, ki že obstaja 120 let? To bo priložnost, da se v širšem kontekstu razvije debata o podobi mestnih muzejev v očeh stanovalcev mest in o medsebojni komunikaciji. 

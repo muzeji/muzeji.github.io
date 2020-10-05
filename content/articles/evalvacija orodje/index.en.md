@@ -1,0 +1,27 @@
+---
+title: "Evaluation - a tool for improving accessibility and participation"
+date: 2019-12-10T00:10:47+01:00
+url: evaluation
+tags:
+
+---
+
+#### Could a front- end dialog with the potencial visitors on the concept and presentation of an exhibition contribute to improve accessibility and participation? Could summative evaluation after the visit of an exhibition help organisers of the next project? You can find respond in this article ####
+
+
+In 1989, Philip Wright wrote that “there is no such thing as a typical visitor and that there is not only one single level of visitors that we can expect and address our messages to”. The Slovene museums are very much aware of such truths. When designing new museums, new museum exhibitions or temporary exhibits and educational programmes, they take into account certain basic behavioural research and findings, done back in the eighties by American and European museum evaluation experts (Falk, Koran and Dierking, Screven, Paulette McManus ). They measured for example the time the visitors of different ages, sex or educational background spend with each exhibited item, how much the attention decreases with regard to the length of visit time, how different types of items from the abstract verbal to the most concrete experiential ones that we perceive with different senses influence visitor’s behaviour, attitudes and knowledge.
+All these results can serve as valuable orientation tools in the conception, design and staging of an exhibition. However, they are not helpful in answering several concrete questions and dilemmas that occur at a concrete exhibition. Therefore, the evaluation and examination of hypotheses, goals and ideas that have been suggested by exhibition curators, as well as the findings about where these might meet or part from the expectations, responses and experiences of the visitors, seem more sensible, more successful and effective than some general behavioural findings. Numerous cases of short preliminary and formative evaluations helped us to establish without investing too much energy, time or large sums of money that the planned contents and presentation manner will not function, and will neither be effective nor visitor friendly. Nowadays, when we talk about museums growing into the wider social environment and about their social role, evaluation is becoming a relevant democratic indicator and at the same time a kind of a cyber tool for museum ergonomy. It has become an indispensable component of every single project covering management, economy, research activities, education and, last but not least, culture. Presently, only few Slovene museums are aware of these facts. The Museum of Recent History in Celje, the winner of the National Valvasor Award and a EMYO nominee, started with the evaluation of exhibitions for children long before the opening of the children’s museum. When moving into new premises, the Slovene Ethnographic Museum tried to find out from its visitors about its position in the new environment and what might be expected from it. The Museum of Recent Slovene History in Ljubljana was executing a summative evaluation about the behavioural reactions of visitors when visiting its permanent exhibition. The data will be used to decide upon the renovation of the exhibition that was set out five years ago.
+
+There is an old Slovene proverb saying ‘not all that shines is gold’. An evaluation is an effective tool for improving our communication with users but it is not a sufficient guarantee to success. To rely solely on the evaluation results and listen only to the voice of the people, is also a matter of controversy. When planning and conceptualising exhibitions, it is more than sensible to apply the transaction model philosophy where the goals, ideas and methods of communication should meet visitors’ expectations, their interests, needs and, last but not least, with the decency of understanding museum contents in line with the human communication channels through which the visitor is willing to receive information.
+
+#### An example of evaluation carried on with teachers #### 
+In the research done in the nineties at the occasion of the 100 Anniversary of the Earthquake 1895 in Ljubljana Exhibition was organised by the City Museum of Ljubljana. 350 teachers of primary and secondary schools in the city were interviewed, and were, among other, asked some specific questions pertaining to the concrete exhibition project. For example, about which of the topics organisers had intended to present they discussed in school and how thoroughly. Curators asked them to offer their suggestions as potential ideas to be included in the exhibition. Detailed research results were then published so that the organisers of the exhibition could actually make use of the gathered information. It has become museum practice of the Ljubljana City Museum to carry out short preliminary evaluations of educational programmes connected with exhibitions. Before they invite school groups to visit, they organise meetings with teachers of those classes for whom the programme is intended and share with them views and proposals, and discuss presentation methods, all for the purpose of making the workshop more alive and more attractive to the students so that they can become acquainted with city heritage through experience and can learn about things in this way. 
+
+Ljubljana, 1995
+
+Borut Rovšnik, M.A.
+Museum Councillor Retired
+Audience Research, Evaluations
+
+
+

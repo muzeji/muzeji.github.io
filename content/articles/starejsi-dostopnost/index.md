@@ -45,3 +45,7 @@ Največ, več kot polovica vprašanih (46%) starejših obiskovalk in obiskovalce
 Naj povemo, da smo lahko zelo zadovoljni, da je prispelo kar 67% pripomb in predlogov za izboljšanje. Med njimi prevladujejo predlogi, kako izboljšati fizično dostopnost (dvigalo in zadostna količina sedežev) in boljše ogrevanje (6 odgovorov). Sodelujoči muzeji in galerije se bodo lahko na podlagi izjav takoj odzvali s hitro dosegljivimi rešitvami in pripravili akcijske kratkoročne in dolgoročne načrte izboljšav. Nič manj pomembne pa niso ugotovitve za reševanje in odločanje o skupnih najbolj žgočih potrebah fizične dostopnosti še posebej ustanov v starejših in spomeniško zaščitenih stavbah, ki pa morajo funkcionirati za današnje potrebe obiskovalcev. Tu še posebej poudarjamo problem dvigal, ki močno omejujejo dostopnost ne samo starejših nad 55 let, ampak tudi drugih ranljivih skupin, recimo družin z majhnimi otroki, da ne govorimo o invalidih. In tu bo najbrž potrebna skupna akcija z Ministrstvom za kulturo.
 
 Na kratko bi priporočila strnil v tri nujne dejavnosti: a/ sistematična letna statistika starejših odraslih obiskovalcev nad 65 let in spremljanje profila (anketa o dostopnosti), b/ akcijski plan kratkoročnih in dolgoročnih ukrepov za boljšo fizično, emocionalno in intelektualno dostopnost, c/ izobraževanje in usposabljanje mentorjev, vodičev, pedagogov in kustosov za delo z starejšimi odraslimi obiskovalkami/ci.
+
+Ljubljana 2019
+
+Borut Rovšnik, muzejski svetnik v pokoju
