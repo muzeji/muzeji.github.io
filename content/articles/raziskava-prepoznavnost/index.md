@@ -141,5 +141,7 @@ Po odgovorih sodeč, nekaterim kultura, muzeji in galerije niso njihovo področj
 
 Zahvaljujejmo se vsem petim ustanovam,ki so finančno podprle raziskavo in dejavno sodelovale pri zasnovi vprašalnika in organizaciji anketiranja.
 
+Ljubljana 2011
+
 Borut Rovšnik, muzejski svetnik v pokoju, Raziskave občinstva in evalvacije, Muzej in galerije mesta Ljubljana
  
