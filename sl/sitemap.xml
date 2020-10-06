@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://muzeji.github.io/</loc>
-    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <lastmod>2020-09-25T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,10 +20,51 @@
   </url>
   
   <url>
+    <loc>https://muzeji.github.io/prepoznavnost-2011/</loc>
+    <lastmod>2020-09-25T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzeji.github.io/clanki/</loc>
+    <lastmod>2020-09-25T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.io/en/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.io/clanki/"
+                />
+  </url>
+  
+  <url>
     <loc>https://muzeji.github.io/tags/dostopnost/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzeji.github.io/evalvacija/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.io/en/evaluation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.io/evalvacija/"
+                />
   </url>
   
   <url>
@@ -44,6 +85,13 @@
   </url>
   
   <url>
+    <loc>https://muzeji.github.io/sodelovanje-mladi/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://muzeji.github.io/tags/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -61,20 +109,10 @@
   </url>
   
   <url>
-    <loc>https://muzeji.github.io/clanki/</loc>
+    <loc>https://muzeji.github.io/dostopnost-mmlj/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://muzeji.github.io/en/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://muzeji.github.io/clanki/"
-                />
   </url>
   
   <url>

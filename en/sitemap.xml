@@ -54,6 +54,23 @@
   </url>
   
   <url>
+    <loc>https://muzeji.github.io/en/evaluation/</loc>
+    <lastmod>2019-12-10T00:10:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://muzeji.github.io/evalvacija/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muzeji.github.io/en/evaluation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://muzeji.github.io/en/tags/research/</loc>
     <lastmod>2019-12-10T00:10:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
